@@ -1,22 +1,17 @@
 # NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-Project implemented by: 
+ Name:Arockia Binolin S
 
 
-Name:
+ID:au960221243006
 
 
-ID:
+College name:Arunachala College of Engineering for Women
 
 
-College name:
+username: student
 
 
-Login credentials: 
-
-username: root
-
-
-Password: root
+Password: 12345
 
